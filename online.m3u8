@@ -7,23 +7,58 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 ,民視新聞台HD
 http://210.61.56.23/hls/ftvtv/index.m3u8
 
-#EXTINF:-1 ,華視HD
-http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
-
-#EXTINF:-1 ,華視,
-rtmp://dv2.tp33.net:1935/sat/tv112
-
-#EXTINF:-1 ,中視,
-rtmp://dv2.tp33.net/sat/tv092
-
 #EXTINF:-1 ,HBO
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 
 #EXTINF:-1 ,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
+#EXTINF:-1 ,Hollywood-movies-1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 ,Hollywood-movies-2
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 ,FOX-CINEMA
+http://161.0.157.5/PLTV/88888888/224/3221226793/01.m3u8
+
+#EXTINF:-1 ,FOX-Comedy-Premium
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1 ,Fox-Premium-Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 ,Fox-Premium-Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?
+
+#EXTINF:-1 ,周星馳電影
+http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 ,周星馳電影2
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 ,劉德華電影
+http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 ,劉德華電影2
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 ,周潤發電影
+http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+
 #EXTINF:-1 ,Gtv 八大綜會
 http://198.16.106.58:8278/badazhonghe/playlist.m3u8?tid=m02000000000011374017&ct=18032&tsum=21f8cd939b2a5109de4b3cb656cefee2
 
 #EXTINF:-1 ,Gtv 第1台
 http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=m02000000000010410120&ct=18032&tsum=055aef0bb13ac1e927f118680b4ec78d
+
+#EXTINF:-1 ,動物星球-HD
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,DISCOVERY-HD
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 ,M+MTV
+http://161.0.157.5/PLTV/88888888/224/3221226847/01.m3u8
+
+#EXTINF:-1 ,MTVnow
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
